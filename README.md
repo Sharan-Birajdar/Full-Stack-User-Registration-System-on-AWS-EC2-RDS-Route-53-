@@ -23,10 +23,14 @@ This project demonstrates how to deploy a full-stack web app on the AWS cloud us
 
 ## ⚙️ Setup & Deployment Guide
 
-1️⃣.Launch EC2 Instance.
-    -Install Apache,PHP and httpd.
-2️⃣.Set Up RDS Database.
-3️⃣.Connect EC2 to RDS.
-4️⃣ Deploy Your Website.
-5️⃣ Connect to Route 53
+ 1️⃣ Launch EC2 Instance
+      -Install Apache,PHP and httpd.
+        
+ 2️⃣ Set Up RDS Database.
+ 
+ 3️⃣ Connect EC2 to RDS.
+ 
+ 4️⃣ Deploy Your Website.
+ 
+ 5️⃣ Connect to Route 53
 
