@@ -13,10 +13,20 @@ This project demonstrates how to deploy a full-stack web app on the AWS cloud us
 - Backend built with PHP for form handling and database operations  
 - Scalable and production-ready cloud deployment
 
-- ## 🛠️ Tech Stack
+## 🛠️ Tech Stack
 - **Frontend:** HTML, CSS, JavaScript  
 - **Backend:** PHP  
 - **Database:** Amazon RDS (MySQL)  
 - **Hosting:** Amazon EC2  
 - **Domain Management:** Amazon Route 53  
 - **Web Server:** Apache  
+
+## ⚙️ Setup & Deployment Guide
+
+1️⃣.Launch EC2 Instance.
+    -Install Apache,PHP and httpd.
+2️⃣.Set Up RDS Database.
+3️⃣.Connect EC2 to RDS.
+4️⃣ Deploy Your Website.
+5️⃣ Connect to Route 53
+
